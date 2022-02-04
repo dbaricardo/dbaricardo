@@ -28,7 +28,7 @@
   ##
  
 <div> 
-  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbaricardo)](https://github.com/anuraghazra/github-readme-stats)
   ![Snake animation](https://github.com/dbaricardo/dbaricardo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
