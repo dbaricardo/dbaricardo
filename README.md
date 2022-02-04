@@ -19,7 +19,7 @@
   <a href="https://github.com/dbaricardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dbaricardo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dbaricardo&theme=blue-green"/>
-  <img height="237em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbaricardo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="237em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dbaricardo"/>
     
 </div>
   <div style="display: inline_block"><br>
