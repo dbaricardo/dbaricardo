@@ -23,12 +23,13 @@
   <img align="center" alt="Ansible" height="30" width="110" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
   <img align="center" alt="Azure" height="30" width="130" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
   <img align="center" alt="AWS" height="30" width="120" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    ![Snake animation](https://github.com/dbaricardo/dbaricardo/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
  
 <div> 
   
-   ![Snake animation](https://github.com/dbaricardo/dbaricardo/blob/output/github-contribution-grid-snake.svg)
+   
  
 </div>
