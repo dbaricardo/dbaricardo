@@ -21,8 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dbaricardo&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbaricardo)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=dbaricardo&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dbaricardo) 
