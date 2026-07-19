@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on IaC Projects<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Azure<br>⚡ Fun fact I'm SimRacer
+👯 I’m looking to collaborate on IaC Projects<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning LLM Chain<br>💬 Ask me about Azure<br>⚡ Fun fact I'm SimRacer
 
 ## 🚀 Projetos em Destaque
 - 🏠 [**homelab-iac**](https://github.com/dbaricardo/homelab-iac) — Infraestrutura como código (Terraform) do homelab pessoal: provisionamento de VMs/LXCs no Proxmox.
